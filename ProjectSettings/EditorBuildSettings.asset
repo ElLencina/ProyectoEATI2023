@@ -5,14 +5,8 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.19.0/Hello Cardboard/Scenes/HelloCardboard.unity
-    guid: 145a2a45d7bc746b19cb68410368bf96
   - enabled: 1
     path: Assets/Scenes/Maze.unity
     guid: 1cc209d080d47c04dae87f29d9605e59
-  - enabled: 0
-    path: Assets/VR-Step/Demo Scenes/UnityNativeVRJumpGame.unity
-    guid: d726414c48b872a45b8bfe030a43ece9
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 51447e1606fe0534db0df97c0e09b5de, type: 2}
